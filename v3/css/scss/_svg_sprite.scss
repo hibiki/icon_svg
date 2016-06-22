@@ -1,0 +1,108 @@
+// icons
+
+[class^="icon-"]:before {
+  content: '';
+  display: inline-block;
+  vertical-align:middle;
+  background-image: url( '/v3/img/svg/svg_sprite.svg' );
+  background-repeat: no-repeat;
+  position: relative;
+  top: -0.1em;
+}
+
+.icon-badoo:before {
+  width:0.8828125em ;
+  height:0.8828125em ;
+  background-position: -0.078125em -0.078125em;
+  background-size: ( 3.8984375 / 0.8828125 * 100% ) ( 3.8984375 / 0.8828125 * 100% );
+}
+.icon-deviantart:before {
+  width:0.8828125em ;
+  height:0.8828125em ;
+  background-position: -1.0390625em -0.078125em;
+  background-size: ( 3.8984375 / 0.8828125 * 100% ) ( 3.8984375 / 0.8828125 * 100% );
+}
+.icon-pinterest:before {
+  width:0.8828125em ;
+  height:0.8828125em ;
+  background-position: -0.078125em -1.0390625em;
+  background-size: ( 3.8984375 / 0.8828125 * 100% ) ( 3.8984375 / 0.8828125 * 100% );
+}
+.icon-twitter:before {
+  width:0.8828125em ;
+  height:0.8828125em ;
+  background-position: -1.0390625em -1.0390625em;
+  background-size: ( 3.8984375 / 0.8828125 * 100% ) ( 3.8984375 / 0.8828125 * 100% );
+}
+.icon-tumblr:before {
+  width:0.8828125em ;
+  height:0.8828125em ;
+  background-position: -1.9921875em -0.078125em;
+  background-size: ( 3.8984375 / 0.8828125 * 100% ) ( 3.8984375 / 0.8828125 * 100% );
+}
+.icon-vk:before {
+  width:0.8828125em ;
+  height:0.8828125em ;
+  background-position: -1.9921875em -1.0390625em;
+  background-size: ( 3.8984375 / 0.8828125 * 100% ) ( 3.8984375 / 0.8828125 * 100% );
+}
+.icon-google-plus:before {
+  width:0.8828125em ;
+  height:0.8828125em ;
+  background-position: -0.078125em -1.9921875em;
+  background-size: ( 3.8984375 / 0.8828125 * 100% ) ( 3.8984375 / 0.8828125 * 100% );
+}
+.icon-instagram:before {
+  width:0.8828125em ;
+  height:0.8828125em ;
+  background-position: -1.0390625em -1.9921875em;
+  background-size: ( 3.8984375 / 0.8828125 * 100% ) ( 3.8984375 / 0.8828125 * 100% );
+}
+.icon-behance:before {
+  width:0.8828125em ;
+  height:0.8828125em ;
+  background-position: -1.9921875em -1.9921875em;
+  background-size: ( 3.8984375 / 0.8828125 * 100% ) ( 3.8984375 / 0.8828125 * 100% );
+}
+.icon-linkedin:before {
+  width:0.8828125em ;
+  height:0.8828125em ;
+  background-position: -2.9453125em -0.078125em;
+  background-size: ( 3.8984375 / 0.8828125 * 100% ) ( 3.8984375 / 0.8828125 * 100% );
+}
+.icon-dribbble:before {
+  width:0.8828125em ;
+  height:0.8828125em ;
+  background-position: -2.9453125em -1.0390625em;
+  background-size: ( 3.8984375 / 0.8828125 * 100% ) ( 3.8984375 / 0.8828125 * 100% );
+}
+.icon-soundcloud:before {
+  width:0.8828125em ;
+  height:0.8828125em ;
+  background-position: -2.9453125em -1.9921875em;
+  background-size: ( 3.8984375 / 0.8828125 * 100% ) ( 3.8984375 / 0.8828125 * 100% );
+}
+.icon-swarm:before {
+  width:0.8828125em ;
+  height:0.8828125em ;
+  background-position: -0.078125em -2.9453125em;
+  background-size: ( 3.8984375 / 0.8828125 * 100% ) ( 3.8984375 / 0.8828125 * 100% );
+}
+.icon-facebook:before {
+  width:0.8828125em ;
+  height:0.8828125em ;
+  background-position: -1.0390625em -2.9453125em;
+  background-size: ( 3.8984375 / 0.8828125 * 100% ) ( 3.8984375 / 0.8828125 * 100% );
+}
+.icon-flickr:before {
+  width:0.8828125em ;
+  height:0.8828125em ;
+  background-position: -1.9921875em -2.9453125em;
+  background-size: ( 3.8984375 / 0.8828125 * 100% ) ( 3.8984375 / 0.8828125 * 100% );
+}
+.icon-lastfm:before {
+  width:0.8828125em ;
+  height:0.8828125em ;
+  background-position: -2.9453125em -2.9453125em;
+  background-size: ( 3.8984375 / 0.8828125 * 100% ) ( 3.8984375 / 0.8828125 * 100% );
+}
