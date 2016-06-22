@@ -1,0 +1,24 @@
+{
+  "name": "icon_svg",
+  "version": "1.0.0",
+  "description": "icon svg test",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp-sass": "^2.3.2",
+    "gulp-svg-spritesheet": "github:iamdarrenhall/gulp-svg-sprite"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hibiki/icon_svg.git"
+  },
+  "author": "hibiki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hibiki/icon_svg/issues"
+  },
+  "homepage": "https://github.com/hibiki/icon_svg#readme"
+}
